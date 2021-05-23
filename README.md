@@ -8,16 +8,16 @@
 ![image_model_1](./proposed_model.png)
 
 ### [Environment/Dependencies]   
-
-CUDA 10.1
-GPU : Geforce GTX 1080 Ti
-Python : 2.7
-Tensorflow – gpu : 1.3.0
-Keras : 2.0.8
-numpy : 1.13.1
-pandas : 0.20.3
-matplotlib : 2.2.3
-
+```
+CUDA 10.1   
+GPU : Geforce GTX 1080 Ti   
+Python : 2.7   
+Tensorflow – gpu : 1.3.0   
+Keras : 2.0.8   
+numpy : 1.13.1   
+pandas : 0.20.3   
+matplotlib : 2.2.3   
+```
 ### [Directory]   
 
 data, labels : 전처리된 데이터 집합 및 학습된 모델 및 실험 결과
