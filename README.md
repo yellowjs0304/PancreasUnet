@@ -46,7 +46,6 @@ unet_fd{foldnum}_Z_ep{epochnum}_lr{learningrate}.h5
 - 실험을 위한 대조군 모델 3Unet_model 폴더 : (3,3) / (5,5) / (7,7)   
 
 - original_model : 초기 baseline 모델을 학습하여 돌린 경우   
-- 
 --------------------
 ### Team
 * [Hwang Ji Su](https://github.com/yellowjs0304)
